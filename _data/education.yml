@@ -1,13 +1,9 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Bachelor of Science, Computer Science
+  gpa: 3.59
+  uni: Southern Polytechnic State University <font size="2">Now Kennesaw State Univ.</font>
+  year: December 2014
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
-
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+    - award: Cumme Laude graduate
+    - award: Upsilon Pi Epsilon Honor Society
+    - award: Autonomous Underwater Vehicle Team

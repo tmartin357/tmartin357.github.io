@@ -1,19 +1,45 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Georgia Tech Research Institute
+  duration: Jan 2013 - Aug 2013
+  position: Co-Op Student Assistant
+  summary: |
+    <ul>
+    <li>Reduced build process for software from multiple pages of hand-typed commands to one simplified build script</li>
+    <li>Researched emulating a legacy system for continued use of required build software</li>
+    </ul>
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: SPSU Autonomous Underwater Vehicle Team <font size="2">Now Kennesaw State Univ.</font>
+  position: Software Lead
+  duration: Jan, 2012 &mdash; Dec, 2014
+  summary: |
+    <ul>
+    <li>Led a team of three students to develop software for the AUV</li>
+    <li>Competed against 25 other teams at the 2012 RoboSub International Competition.</li>
+    <li>Worked on KSU-SPSU Competition Teams, Non-Sports consolidation team.</li>
+    <li>Collaborated with the Mechanical and Electrical leaders to integrate all three systems</li>
+    <li><b>Technical Environment:</b> Ubuntu, Raspbian, Arduino IDE, and OpenCV</li>
+    <li><b>Hardware:</b> Raspberry Pi, Arduino, and ODROID U3</li>
+    </ul>
+
+- company: Premier Staffing
+  duration: Mar 2017 - Jun 2017
+  position: Temp Materials Handler
+  summary: |
+    <ul>
+    <li>Worked with a team of five other people to produce more than 50 window shades a day</li>
+    <li>Cross-trained and worked at two to three stations each shift</li>
+    <li>Provided quality control by inspecting each shade for defects</li>
+    </ul>
+
+- company: Tuesday Morning
+  duration: Dec 2009 - Dec 2014
+  position: Store Associate
+  summary: |
+    <ul>
+    <li>Handled receipt of store merchandise, totaling to more than 5,000 items per week</li>
+    <li>Provided accurate counts during physical product inventory</li>
+    <li>Configured and maintained shelving units per written instructions</li>
+    <li>Troubleshooted common cash register problems</li>
+    <li>Trained new and old staff on using updated point of sale system</li>
+    </ul>

@@ -1,12 +1,12 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Programing Languages
+  description: Python, Ada, C++, LaTeX, Java, JavaScript, PHP, HTML, CSS
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Operating Systems
+  description: Windows, Ubuntu, Raspbian, Arch Linux, Solaris 8
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Version Control
+  description: Git, Subversion, MKS Integrity
+
+- skill: Tools 
+  description: SSH, GNU Screen, GNU Nano, Visual Studio Code
