@@ -1,8 +1,8 @@
 # links
 - url: "https://github.com/tmartin357/"
-  description: My LinkedIn Profile
-- url: "https://www.linkedin.com/in/tmartin357/"
   description: My Github Profile
+- url: "https://www.linkedin.com/in/tmartin357/"
+  description: My LinkedIn Profile
 - url: "https://trailhead.salesforce.com/en/me/tmartin357"
   description: My Salesforce Trailhead Profile
 - url: "https://github.com/tmartin357/TCP_Portfilio"
